@@ -7,5 +7,6 @@ for i in range(num):
     
 print(max(list))
 
+
 print(list.index(max(list))+1)
 
